@@ -32,10 +32,10 @@ def sorted_matrix
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character
  return sorted_matrix = [
-    CONVENTIONAL_PRODUCE,
+    [CONVENTIONAL_PRODUCE.sort,
     ORGANIC_PRODUCE
     
-    ].SORT
+    ].
   
 end
 
